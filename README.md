@@ -14,6 +14,10 @@ To do so, you need to run `pnpm publish` manually for the very first time to cre
 
 Then for the future releases, you can run `pnpm run release` to do the release and the GitHub Actions will take care of the release process.
 
+## Agents
+
+- [andrej-karpathy-skills-claude.md](https://github.com/multica-ai/andrej-karpathy-skills)
+
 ## License
 
 [MIT](./LICENSE) License © [hackycy](https://github.com/hackycy)
